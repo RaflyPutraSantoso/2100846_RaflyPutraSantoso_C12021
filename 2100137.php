@@ -10,6 +10,7 @@ echo "My name is Muhamad Nur Yasin Amadudin<br/>";
 echo "I have my own NIM which is 2100137";
 echo "kita coba";
 echo "kita coba";
+echo "kita coba";
 
 ?>
 
